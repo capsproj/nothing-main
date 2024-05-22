@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209162912284",
+    "project_id": "online-shop-b3209",
+    "storage_bucket": "online-shop-b3209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209162912284:android:ceeb8ac3db5089ac8415d9",
+        "android_client_info": {
+          "package_name": "com.example.minmalecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFzClzoYCayLztYXOQ53xm7cIQZvDOdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
